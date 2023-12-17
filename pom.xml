@@ -9,6 +9,7 @@
 	<packaging>pom</packaging>
 
 	<name>parent-slim</name>
+	<url>https://hingebridge.com/notes/</url>
 	<description>This is the base parent POM specifically for all libraries</description>
 
 	<dependencies>
