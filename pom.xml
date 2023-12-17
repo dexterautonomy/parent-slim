@@ -6,6 +6,7 @@
 	<groupId>com.hingebridge.api</groupId>
 	<artifactId>parent-slim</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 
 	<name>parent-slim</name>
 	<description>This is the base parent POM specifically for all libraries</description>
